@@ -89,5 +89,8 @@ Top 10 Companies with high similarity score:
 
 Based on the Similarity score we will display the manufacturers as suggested manufactures to the user for the entered capabilities, in or case the below companies are the suggested companies for input  ("COVID-19 Response")
 
+### 8. Conclusion:
+By this Model we can recommend the Manufacturing Company that is near to the user based on the requirement of the user with high Accuracy.
+
 
 
