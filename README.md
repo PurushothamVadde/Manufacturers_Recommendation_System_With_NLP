@@ -1,5 +1,7 @@
 # Manufacturers Recommendation System With Natural Language Processing
 
+![head](https://github.com/PurushothamVadde/Manufacturers_Recommendation_System_With_NLP/blob/master/images/manufacturer.jpeg)
+
 ## Tools and Packages:
 * Programming :Python
 * Webscraping :beautifulSoup
