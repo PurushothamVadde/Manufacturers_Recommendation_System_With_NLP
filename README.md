@@ -19,7 +19,7 @@ We have collected the Manufacturing details through web scraping of multiple onl
 ![CNC](https://github.com/PurushothamVadde/Manufacturers-Recommendation-System-With-Natural-Language-Processing/blob/master/images/CNC_Manufactures.png)
 #### Welding Manufactures data Statewise in USA
 ![Welding](https://github.com/PurushothamVadde/Manufacturers-Recommendation-System-With-Natural-Language-Processing/blob/master/images/welding.png)
-#### Welding Manufactures data Statewise in USA
+#### Casting Manufactures data Statewise in USA
 ![Casting](https://github.com/PurushothamVadde/Manufacturers-Recommendation-System-With-Natural-Language-Processing/blob/master/images/Casting.png)
 #### About Capabilities of Manufacturer:
 The  Capabilities column in the data table contains the complete list of operations or services  that each manufacturer providing, 
