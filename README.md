@@ -68,7 +68,7 @@ In this step we calculate the similarity score between the Input and the capabil
 Cosine similarity is the measure of similarity between two vectors, by computing the cosine of the angle between two vectors projected into multidimensional space. It can be applied to items available on a dataset to compute similarity to one another via keywords or other metrics. Similarity between two vectors (A and B) is calculated by taking the dot product of the two vectors and dividing it by the magnitude value as shown in the equation below. We can simply say that the CS score of two vectors increases as the angle between them decreases.
 
 Formula for calculating the cosine similarity
-
+![CS](https://github.com/PurushothamVadde/Manufacturers-Recommendation-System-With-Natural-Language-Processing/blob/master/images/Picture1.png)
 
 
 
