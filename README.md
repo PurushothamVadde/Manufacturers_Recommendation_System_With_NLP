@@ -15,7 +15,15 @@ As part of this project we are applying the Natural Language Processing on manuf
 To get the data of manufacturers, we followed the web scaring technique by which we collected the data from many online resources such as manufacturing websites, social media etc. After the collection of data we cleaned the data and used the TFIDF vectorizer to convert the input and manufacturer capabilities text into numerical matrix format, and we used the cosine similarity score to get the similarity score between the Input Text and Manufacturer capabilities and we displayed the manufacturers by highest similarity score to the user so that the user will get the suggestions based on the highest similarity score (suggestions that are related closely to the input text).
 The detailed steps are mentioned as below.
 
-### 1. Collecting the Manufacturers Data:
+- [1.Collecting the Manufacturers Data](#1.collecting-the-manufacturers-data)
+- [2.User Input](#2.user-input)
+- [3.Getting the Data based on the Input State](#3.getting-the-data-based-on-the-input-state)
+- [4.Text Normalization](#4.text-normalization)
+- [5.Text Vectorization](#5.text-vectorization)
+- [Conclusion](#conclusion)
+
+
+### 1.Collecting the Manufacturers Data:
 We have collected the Manufacturing details through web scraping of multiple online websites and social media etc., The Manufacturer Details contains columns as described below:
 > Name       		  	          : Manufacturers name             
 > Address                 		: Manufacturers Address\
@@ -47,7 +55,7 @@ As Input we will Accept  the state of Manufacturer and Manufacturing Capabilitie
 ### 3.Getting the Data based on the Input State:
 Based on the state entered as input we will select the manufacturers capabilities from our data which are from the input state and perform the next steps on that data.
 
-### 4. Text Normalization:
+### 4.Text Normalization:
 In this step we perform the text Normalization on data selected based on state and perform below steps, 
 *	Convert the text into lower case
 *	Remove  unwanted spaces
