@@ -20,6 +20,8 @@ The detailed steps are mentioned as below.
 - [Getting the Data based on the Input State](#getting-the-data-based-on-the-input-state)
 - [Text Normalization](#text-normalization)
 - [Text Vectorization](#text-vectorization)
+- [Calculating the Similarity Score using Cosine Similarity](#calculating-the-similarity-score-using-cosine-similarity)
+- [Results](#results)
 - [Conclusion](#conclusion)
 
 
@@ -45,7 +47,7 @@ Below list is the example of capabilities of single manufacturer:
 
 > ('Assembly Machinery', 'Automotive Parts', 'Bending Services', 'Boring Services', 'Broaching Services', 'Custom Machinery', 'COVID-19 Response', 'Cutting Services', 'Cylinders',  'Drilling Services', 'Electronic Components', 'Extrusion Services', 'Fabrication Services', 'Hydraulic Equipment', 'Hobbing Services', 'Job Shop Services', 'Knurling Services', 'Machining', 'Machinery', 'Maintenance and Repair Services', 'Medical Components', 'Milling Services', 'Motors', 'Power Units', 'Plastics', 'Pumps', 'Tapping Services', 'Testing  Services', 'Tier 2 Medical Mfg. Supplies, Materials, Components & Services', 'Turning Services', 'Valves', 'Welding Services', 'Winding Services')
 
-### UserInput :
+###  UserInput :
 As Input we will Accept  the state of Manufacturer and Manufacturing Capabilities that user is looking for.
 
 > Example:\
